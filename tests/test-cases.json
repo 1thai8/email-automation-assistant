@@ -1,0 +1,22 @@
+[
+  {
+    "version": "v1",
+    "test_case": "case-001",
+    "thread_text": "Hi, I placed an order yesterday and I want to know if it has shipped.",
+    "constraints": {
+      "tone": "friendly",
+      "word_limit": 80,
+      "facts": "Customer placed an order yesterday; no shipping confirmation in thread."
+    }
+  },
+  {
+    "version": "v1",
+    "test_case": "case-002",
+    "thread_text": "Hello, I submitted my documents last Friday. Can you confirm if everything is complete?",
+    "constraints": {
+      "tone": "professional",
+      "word_limit": 120,
+      "facts": "User submitted documents last Friday."
+    }
+  }
+]
