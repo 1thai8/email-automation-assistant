@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "test_case": "case-001",
+  "model_output": {
+    "summary": "Customer wants to know whether yesterday’s order has shipped.",
+    "reply": "Thanks for reaching out! I’m checking the status of your order and will confirm the shipping details shortly. Let me know if you need updates sent to another email.",
+    "clarifying_question": "",
+    "notes": "Tone matched, no invented details, within word limit."
+  }
+}
